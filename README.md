@@ -1,0 +1,1 @@
+Hello, I am azureian! I am the creator of this coding language. Currently, there is no way to execute scripts, because I still am working on it. Right now the new update is still in the works, but the code can read scripts. This update is mostly to show commands in terminal (Shell) and let everyone get a grip on the language. Thanks, bye!
